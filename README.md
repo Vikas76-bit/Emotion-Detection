@@ -63,9 +63,11 @@ Debug information (input image and results) will be saved in the `debug/` direct
 
 This project was developed by:
 
-- Vikas Babu
+- Vikas Babu (https://github.com/Vikas76-bit)
 - Prathmesh Hatwar (https://github.com/Prathat2006)
-- Kanchan Kumari# Emotion Detection System
+- Kanchan Kumari
+
+# Emotion Detection System
 
 This repository contains an advanced emotion detection system that leverages state-of-the-art facial recognition models and emotion analysis techniques to detect human emotions from images. It also provides personalized audio and visual feedback to enhance the user's experience.
 
@@ -130,6 +132,6 @@ Debug information (input image and results) will be saved in the `debug/` direct
 
 This project was developed by:
 
-- Vikas Babu
+- Vikas Babu (https://github.com/Vikas76-bit)
 - Prathmesh Hatwar (https://github.com/Prathat2006)
 - Kanchan Kumari
